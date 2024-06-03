@@ -1,0 +1,9 @@
+{
+    "dependencies": {
+      "@google-cloud/functions-framework": "^3.0.0",
+      "@google-cloud/pubsub": "^4.3.3",
+      "express": "^4.19.2",
+      "mongodb": "^6.5.0"
+    }
+  }
+  
